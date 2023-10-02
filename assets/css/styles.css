@@ -42,6 +42,7 @@
 #topbar2 {
     background: rgba(45, 89, 202, 1);
     height: 59px;
+    color: white;
 }
 #text1, #text2, #text3 {
     font-size: 18px;
