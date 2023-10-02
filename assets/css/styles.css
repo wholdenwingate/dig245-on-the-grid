@@ -1,2 +1,51 @@
 
 /* css */
+
+
+
+.container {
+    
+    font-family: Alegreya Sans SC;
+    font-weight: 500; 
+    margin-bottom: 1rem !important;
+    margin-top: 1rem !important;
+}
+
+@media (min-width: 768px) {
+    .container {
+        font-size: 12px; 
+    }
+    #garden {
+        font-size: 45px;
+    }
+    #text1, #text2, #text3 {
+        font-size: 15px; 
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        font-size: 20px; 
+    }
+    #garden {
+        font-size: 65px;
+    }
+    #text1, #text2, #text3 {
+        font-size: 20px; 
+    }
+}
+#topbar1 {
+    background-color: #1A9BC4;
+    font-size: 50px;
+    color: white;
+    word-wrap: break-word;
+}
+#topbar2 {
+    background: rgba(45, 89, 202, 1);
+    height: 59px;
+}
+#text1, #text2, #text3 {
+    font-size: 18px;
+}
+
+
+
